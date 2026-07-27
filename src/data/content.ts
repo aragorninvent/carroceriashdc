@@ -13,13 +13,13 @@ export const services: Card[] = [
 export const benefits = ["Fabricación y montaje en Chile", "Evaluación según vehículo y operación", "Soluciones para carga seca y refrigerada", "Alternativas de fabricación propia e importación", "Atención directa durante el proyecto", "Mantención y soporte posterior"];
 export const process = ["Conocemos la operación", "Definimos la solución", "Fabricamos o suministramos", "Montamos y verificamos"];
 export const projects = [
-  { title: "Carga general", text: "Carrocería para operación de carga", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2008.45.01.jpeg", alt: "Camión amarillo con carrocería de carga general", width: 1200, height: 1600 },
-  { title: "Montaje de frío", text: "Instalación de equipo de refrigeración", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2008.44.20.jpeg", alt: "Instalación de equipo de frío sobre carrocería", width: 1600, height: 900 },
-  { title: "Furgón de carga", text: "Solución cerrada para distribución", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2008.47.57.jpeg", alt: "Camión con furgón metálico de carga", width: 1600, height: 900 },
-  { title: "Terminaciones", text: "Detalle de carrocería y estructura", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2009.22.16.jpeg", alt: "Detalle lateral de carrocería blanca", width: 1600, height: 1200 },
-  { title: "Carrocería con persianas", text: "Configuración para carga y descarga", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2008.44.20%20%281%29.jpeg", alt: "Camión con carrocería amarilla y persianas metálicas", width: 1600, height: 1200 },
-  { title: "Carrocería sider", text: "Solución lateral para transporte", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2009.07.32.jpeg", alt: "Camión con carrocería sider negra", width: 1600, height: 900 },
-  { title: "Furgón de distribución", text: "Carrocería cerrada para reparto", src: "/images/pending/WhatsApp%20Image%202026-07-27%20at%2008.44.59.jpeg", alt: "Camión liviano con furgón blanco", width: 1200, height: 1200 }
+  { title: "Carga general", text: "Carrocería para operación de carga", src: "/images/pending/WhatsApp Image 2026-07-27 at 08.45.01.jpeg", alt: "Camión amarillo con carrocería de carga general", width: 1200, height: 1600 },
+  { title: "Montaje de frío", text: "Instalación de equipo de refrigeración", src: "/images/pending/WhatsApp Image 2026-07-27 at 08.44.20.jpeg", alt: "Instalación de equipo de frío sobre carrocería", width: 1600, height: 900 },
+  { title: "Furgón de carga", text: "Solución cerrada para distribución", src: "/images/pending/WhatsApp Image 2026-07-27 at 08.47.57.jpeg", alt: "Camión con furgón metálico de carga", width: 1600, height: 900 },
+  { title: "Terminaciones", text: "Detalle de carrocería y estructura", src: "/images/pending/WhatsApp Image 2026-07-27 at 09.22.16.jpeg", alt: "Detalle lateral de carrocería blanca", width: 1600, height: 1200 },
+  { title: "Carrocería con persianas", text: "Configuración para carga y descarga", src: "/images/pending/WhatsApp Image 2026-07-27 at 08.44.20 (1).jpeg", alt: "Camión con carrocería amarilla y persianas metálicas", width: 1600, height: 1200 },
+  { title: "Carrocería sider", text: "Solución lateral para transporte", src: "/images/pending/WhatsApp Image 2026-07-27 at 09.07.32.jpeg", alt: "Camión con carrocería sider negra", width: 1600, height: 900 },
+  { title: "Furgón de distribución", text: "Carrocería cerrada para reparto", src: "/images/pending/WhatsApp Image 2026-07-27 at 08.44.59.jpeg", alt: "Camión liviano con furgón blanco", width: 1200, height: 1200 }
 ];
 export const faqs = [
   ["¿Qué información necesito para cotizar?", "El modelo del camión, tipo de carga, dimensiones aproximadas y cómo se utiliza el vehículo ayudan a orientar la evaluación. No necesita contar con toda la información técnica para iniciar."],
