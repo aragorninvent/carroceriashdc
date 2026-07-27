@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function NotFound(){return <section className="page-hero"><div className="container"><p className="eyebrow">Error 404</p><h1>No encontramos esta página</h1><p>Puede volver al inicio, revisar nuestros servicios o solicitar una cotización.</p><Link className="button" href="/">Volver al inicio</Link></div></section>}
