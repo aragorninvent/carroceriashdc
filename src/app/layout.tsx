@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "./mobile.css";
 import "./leaflet.css";
+import "./map-layout.css";
 import { Header, Footer, WhatsApp } from "@/components/site-shell";
 import { ContactMap } from "@/components/contact-map";
 import { siteUrl } from "@/data/company";
