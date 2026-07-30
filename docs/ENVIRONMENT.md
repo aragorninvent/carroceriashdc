@@ -10,6 +10,7 @@ Use `.env.example` como referencia. Los valores reales se configuran en Hostinge
 | `NEXT_PUBLIC_SITE_URL` | Dominio canónico del sitio. | Sí |
 | `NEXT_PUBLIC_WHATSAPP_NUMBER` | Número WhatsApp sin `+`. | Sí |
 | `NEXT_PUBLIC_GOOGLE_MAPS_URL` | Enlace para abrir la ubicación en Google Maps. | Sí |
+| `NEXT_PUBLIC_GA_MEASUREMENT_ID` | ID público de medición Google Analytics 4. | Sí |
 | `TURNSTILE_SECRET_KEY` | Clave privada de Cloudflare Turnstile. | Solo si se activa |
 | `NEXT_PUBLIC_TURNSTILE_SITE_KEY` | Clave pública de Turnstile. | Solo si se activa |
 
